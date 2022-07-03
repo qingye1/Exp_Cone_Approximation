@@ -1,0 +1,10 @@
+
+output_name_Ex1 = 'gurobi_packing_exmp1_binary_small'
+output_name_Ex2 = 'gurobi_packing_exmp2_binary_small'
+output_name_Ex3_Best_Scale = 'gurobi_packing_exmp3_best_scale_binary_small'
+output_name_Ex3 = 'gurobi_packing_exmp3_binary_small'
+output_name_Sec31 = 'gurobi_packing_section_3_1_binary_small'
+output_name_Sec31_Shift = 'gurobi_packing_section_3_1_shift_binary_small'
+output_name_Sec32 = 'gurobi_packing_section_3_2_binary_small'
+output_name_Sec32_Shift = 'gurobi_packing_section_3_2_shift_binary_small'
+
